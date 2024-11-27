@@ -53,20 +53,6 @@ class ApiCall {
             throw error;
         }
     }
-
-    searchFlights = async (params) => {
-        try {
-            const response = await axios.get(`${BASE_API_URL_V2}/flights/searchFlights`, {
-                headers: {
-                    "x-rapidapi-key": API_KEY
-                },
-                params: { ...params }
-            });
-            return response.data;
-        } catch (error) {
-            throw error;
-        }
-    }
 }
 
 export default ApiCall;
