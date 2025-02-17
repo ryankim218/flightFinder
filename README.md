@@ -2,6 +2,8 @@
 
 A simple web application that allows users to search for available flights based on their travel details (origin, destination, dates, etc.).
 
+[https://ryankim218.github.io/flightFinder](https://ryankim218.github.io/flightFinder)
+
 ## Features
 
 - **Search for flights** by specifying departure and arrival locations, dates, and flight type (one-way or round-trip).
