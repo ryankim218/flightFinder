@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/flightFinder/static/css/main.15bf621f.css",
+    "main.js": "/flightFinder/static/js/main.45a1a117.js",
+    "static/js/453.0be59e98.chunk.js": "/flightFinder/static/js/453.0be59e98.chunk.js",
+    "index.html": "/flightFinder/index.html",
+    "main.15bf621f.css.map": "/flightFinder/static/css/main.15bf621f.css.map",
+    "main.45a1a117.js.map": "/flightFinder/static/js/main.45a1a117.js.map",
+    "453.0be59e98.chunk.js.map": "/flightFinder/static/js/453.0be59e98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15bf621f.css",
+    "static/js/main.45a1a117.js"
+  ]
+}
